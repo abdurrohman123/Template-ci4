@@ -13,8 +13,8 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <link rel="shortcut icon" href="">
-    <title>Thema Admin Boostrap Template</title>
+  
+
 
     <!-- Start Global plugin css -->
     <link href="<?= base_url() ?>/template/assets/css/global-plugins.css" rel="stylesheet">
@@ -41,6 +41,10 @@
     <link href="<?= base_url() ?>/template/assets/fonts/Open-Sans/open-sans.css?family=Open+Sans:300,400,700" rel="stylesheet" />
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!-- DATA TABLE -->
+    <link href="<?= base_url() ?>/template/assets/css/table-responsive.css" rel="stylesheet"/>
+    <link href="<?= base_url() ?>/template/assets/vendors/datatable/bootstrap/dataTables.bootstrap.css" rel="stylesheet">
+
     <!--[if lt IE 9]>
     <script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->

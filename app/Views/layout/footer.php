@@ -2,6 +2,11 @@
 <script src="<?= base_url() ?>/template/assets/js/global-plugins.js"></script>
 <script src="<?= base_url() ?>/template/assets/js/theme.js" type="text/javascript" ></script>
 
+
+<!-- dDATA TABLE-->
+<script src="<?= base_url() ?>/template/assets/js/tables.js"></script>
+<script src="<?= base_url() ?>/template/assets/js/table_editable.js"></script>
+
 <script type="text/javascript">
 
 
