@@ -34,7 +34,7 @@
             <div class="brand">
 
                 <a href="../index.html" class="logo">
-                    Distributor
+                   PGT Data Master
                 </a>
                 <div class="sidebar-toggle-box">
                     <div class="fa fa-bars"></div>
