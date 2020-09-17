@@ -1,0 +1,22 @@
+CRITICAL - 2020-09-17 11:46:55 --> Invalid file: master.php
+#0 E:\KODING-Template\ci4-distributor\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master.php')
+#1 E:\KODING-Template\ci4-distributor\system\View\View.php(257): CodeIgniter\View\View->render('master', Array, true)
+#2 E:\KODING-Template\ci4-distributor\system\Common.php(1119): CodeIgniter\View\View->render('index', Array, true)
+#3 E:\KODING-Template\ci4-distributor\app\Controllers\Home.php(12): view('index')
+#4 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#5 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\KODING-Template\ci4-distributor\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 E:\KODING-Template\ci4-distributor\system\Commands\Server\rewrite.php(34): require_once('E:\\KODING-Templ...')
+#9 {main}
+CRITICAL - 2020-09-17 11:47:19 --> Invalid file: master.php
+#0 E:\KODING-Template\ci4-distributor\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master.php')
+#1 E:\KODING-Template\ci4-distributor\system\View\View.php(257): CodeIgniter\View\View->render('master', Array, true)
+#2 E:\KODING-Template\ci4-distributor\system\Common.php(1119): CodeIgniter\View\View->render('index', Array, true)
+#3 E:\KODING-Template\ci4-distributor\app\Controllers\Home.php(12): view('index')
+#4 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#5 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 E:\KODING-Template\ci4-distributor\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\KODING-Template\ci4-distributor\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 E:\KODING-Template\ci4-distributor\system\Commands\Server\rewrite.php(34): require_once('E:\\KODING-Templ...')
+#9 {main}
